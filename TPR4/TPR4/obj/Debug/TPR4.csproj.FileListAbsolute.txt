@@ -1,0 +1,8 @@
+C:\Users\Аня\Google Диск\tpr\TPR4\TPR4\bin\Debug\TPR4.exe.config
+C:\Users\Аня\Google Диск\tpr\TPR4\TPR4\bin\Debug\TPR4.exe
+C:\Users\Аня\Google Диск\tpr\TPR4\TPR4\bin\Debug\TPR4.pdb
+C:\Users\Аня\Google Диск\tpr\TPR4\TPR4\obj\Debug\TPR4.csprojResolveAssemblyReference.cache
+C:\Users\Аня\Google Диск\tpr\TPR4\TPR4\obj\Debug\TPR4.Properties.Resources.resources
+C:\Users\Аня\Google Диск\tpr\TPR4\TPR4\obj\Debug\TPR4.csproj.GenerateResource.Cache
+C:\Users\Аня\Google Диск\tpr\TPR4\TPR4\obj\Debug\TPR4.exe
+C:\Users\Аня\Google Диск\tpr\TPR4\TPR4\obj\Debug\TPR4.pdb

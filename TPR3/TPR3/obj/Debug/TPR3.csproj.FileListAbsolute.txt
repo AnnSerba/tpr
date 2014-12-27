@@ -1,0 +1,24 @@
+D:\Dropbox\Visual Studio 2013\TPR3\TPR3\bin\Debug\TPR3.exe.config
+D:\Dropbox\Visual Studio 2013\TPR3\TPR3\bin\Debug\TPR3.exe
+D:\Dropbox\Visual Studio 2013\TPR3\TPR3\bin\Debug\TPR3.pdb
+D:\Dropbox\Visual Studio 2013\TPR3\TPR3\obj\Debug\TPR3.csprojResolveAssemblyReference.cache
+D:\Dropbox\Visual Studio 2013\TPR3\TPR3\obj\Debug\TPR3.FormТеорияВажности.resources
+D:\Dropbox\Visual Studio 2013\TPR3\TPR3\obj\Debug\TPR3.Properties.Resources.resources
+D:\Dropbox\Visual Studio 2013\TPR3\TPR3\obj\Debug\TPR3.csproj.GenerateResource.Cache
+D:\Dropbox\Visual Studio 2013\TPR3\TPR3\obj\Debug\TPR3.exe
+D:\Dropbox\Visual Studio 2013\TPR3\TPR3\obj\Debug\TPR3.pdb
+D:\Dropbox\Visual Studio 2013\TPR3\TPR3\obj\Debug\TPR3.FormDataGridView.resources
+C:\Users\Аня\Google Диск\Visual Studio 2013\Projects\TPR3\TPR3\bin\Debug\TPR3.exe.config
+C:\Users\Аня\Google Диск\Visual Studio 2013\Projects\TPR3\TPR3\obj\Debug\TPR3.exe
+C:\Users\Аня\Google Диск\Visual Studio 2013\Projects\TPR3\TPR3\obj\Debug\TPR3.pdb
+C:\Users\Аня\Google Диск\Visual Studio 2013\Projects\TPR3\TPR3\bin\Debug\TPR3.exe
+C:\Users\Аня\Google Диск\Visual Studio 2013\Projects\TPR3\TPR3\bin\Debug\TPR3.pdb
+C:\Users\Аня\Google Диск\Visual Studio 2013\Projects\TPR3\TPR3\obj\Debug\TPR3.csprojResolveAssemblyReference.cache
+C:\Users\Аня\Google Диск\Visual Studio 2013\Projects\TPR3\TPR3\obj\Debug\TPR3.FormDataGridView.resources
+C:\Users\Аня\Google Диск\Visual Studio 2013\Projects\TPR3\TPR3\obj\Debug\TPR3.FormТеорияВажности.resources
+C:\Users\Аня\Google Диск\Visual Studio 2013\Projects\TPR3\TPR3\obj\Debug\TPR3.Properties.Resources.resources
+C:\Users\Аня\Google Диск\Visual Studio 2013\Projects\TPR3\TPR3\obj\Debug\TPR3.csproj.GenerateResource.Cache
+C:\Users\Аня\Google Диск\Visual Studio 2013\Projects\TPR3\TPR3\obj\Debug\TPR3.График.resources
+D:\Dropbox\Открытая\ТПР\TPR3\TPR3\bin\Debug\TPR3.exe.config
+D:\Dropbox\Открытая\ТПР\TPR3\TPR3\obj\Debug\TPR3.exe
+D:\Dropbox\Открытая\ТПР\TPR3\TPR3\obj\Debug\TPR3.pdb

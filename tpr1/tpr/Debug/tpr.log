@@ -1,0 +1,79 @@
+﻿Сборка начата 21.10.2014 22:54:58.
+     1>Проект "c:\Users\Аня\documents\visual studio 2013\Projects\tpr\tpr\tpr.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(75): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(97): error C2653: Eigen: не является именем класса или пространства имен
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(97): error C2065: MatrixXf: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(97): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(97): error C3861: x: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(98): error C2653: Eigen: не является именем класса или пространства имен
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(98): error C2065: VectorXf: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(98): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "y"
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(98): error C3861: y: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(99): error C2653: Eigen: не является именем класса или пространства имен
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(99): error C2065: Vector3f: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(99): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(99): error C2065: a: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(103): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(104): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(106): error C3861: x: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(107): error C3861: x: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(108): error C3861: x: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(110): error C3861: y: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(113): error C2653: Eigen: не является именем класса или пространства имен
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(113): error C2065: MatrixXf: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(113): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "tmp"
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(113): error C2065: tmp: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(113): error C2065: x: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(113): error C2228: выражение слева от ".transpose" должно представлять класс, структуру или объединение
+                 тип: unknown-type
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(113): error C2228: выражение слева от ".eval" должно представлять класс, структуру или объединение
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(114): error C2065: a: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(114): error C2065: tmp: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(114): error C2228: выражение слева от ".inverse" должно представлять класс, структуру или объединение
+                 тип: unknown-type
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(114): error C2065: x: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(114): error C2228: выражение слева от ".transpose" должно представлять класс, структуру или объединение
+                 тип: unknown-type
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(114): error C2228: выражение слева от ".eval" должно представлять класс, структуру или объединение
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(114): error C2065: y: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(117): error C3861: a: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(122): error C2653: Eigen: не является именем класса или пространства имен
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(122): error C2065: MatrixXf: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(122): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(122): error C3861: x: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(123): error C2653: Eigen: не является именем класса или пространства имен
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(123): error C2065: VectorXf: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(123): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "y"
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(123): error C3861: y: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(124): error C2653: Eigen: не является именем класса или пространства имен
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(124): error C2065: Vector3f: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(124): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(124): error C2065: a: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(126): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(128): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(129): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(131): error C3861: x: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(132): error C3861: x: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(133): error C3861: x: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(135): error C3861: y: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(138): error C2065: a: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(138): error C2065: x: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(138): error C2228: выражение слева от ".transpose" должно представлять класс, структуру или объединение
+                 тип: unknown-type
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(138): error C2228: выражение слева от ".inverse" должно представлять класс, структуру или объединение
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(138): error C2065: y: необъявленный идентификатор
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(141): error C3861: a: идентификатор не найден
+     1>c:\users\аня\documents\visual studio 2013\projects\tpr\tpr\main.cpp(213): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Сборка проекта "c:\Users\Аня\documents\visual studio 2013\Projects\tpr\tpr\tpr.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:02.88
